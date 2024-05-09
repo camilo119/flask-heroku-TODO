@@ -16,4 +16,4 @@ Taskmaster is a To Do List application developed in Python using Flask. It allow
 - **User Interface**: The application provides a user-friendly interface built using HTML and CSS.
 - **Flask Framework**: Taskmaster is built using the Flask web framework, providing a scalable and maintainable solution.
 
-![Screenshot 2024-05-02 232913](https://github.com/camilo119/pizza-report/assets/70864660/391da9d1-0d3c-43a4-97fa-3593f4425683)
+![image](https://github.com/camilo119/Bank_Report/assets/70864660/2cf20c18-cd6e-4027-9a4e-529dc0bcd6a2)
